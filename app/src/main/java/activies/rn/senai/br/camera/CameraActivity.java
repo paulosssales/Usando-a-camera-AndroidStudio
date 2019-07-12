@@ -13,6 +13,7 @@ import android.widget.Toast;
 
 public class CameraActivity extends AppCompatActivity {
     private final int TIRAR_FOTO = 1;
+    private final int GRAVAR_VIDEO = 2;
 
     private FloatingActionButton mFbCamera;
     private ImageView mImageView;
